@@ -1,0 +1,20 @@
+## Extensios used
+{
+  "recommendations": [
+  //Frontend tools
+    "Live Server", 
+    "Visual Studio IntelliCpde", 
+    "Prettie-Code Formatter", 
+    "Path IntelliSense", 
+    "GitLens---Git supercharged", 
+    "Auto Rename Tag", 
+    "Auto Close Tag", 
+    "Import Cost", 
+    "vscode-icons",
+    "TODO Hightlight", 
+    "CSS Peek", 
+    "ESLint", 
+    "Intellisense for CSS class names in HTML", 
+    "Tailwind CSS IntelliSense"
+  ]
+}
